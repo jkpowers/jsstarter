@@ -1,0 +1,4 @@
+jsstarter
+=========
+
+Simple JS starter
